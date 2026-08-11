@@ -2,12 +2,16 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm:
-- Repository URL:
-- Commit SHA cuối:
+- Tên nhóm: C5-3
+- Repository URL: https://github.com/lonhidol/Day13-K4-Observability-C53 
+- Commit SHA cuối: 5ba64725aaf0b5b4d51c28772973373d98d0f149
 - Thành viên và vai trò:
+  - [Tên thành viên 1] - Người 1 (Backend Observability: Logging & PII, Tracing & Prompt Version)
+  - [Tên thành viên 2] - Người 2 (Monitoring & Alerting: Dashboard, SLO & Alert)
+  - Đào Tùng Dương - Người 3 (Incident Lead, Report & Demo)
 
 ## 2. Kết quả kỹ thuật
+
 
 - Điểm `validate_logs.py`: Baseline: 30/100, Checkpoint 1: 100/100
 - Tổng số traces:

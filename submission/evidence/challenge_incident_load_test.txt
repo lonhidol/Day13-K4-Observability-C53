@@ -1,0 +1,6 @@
+Challenge: day13-k4-observability-v1 | Cohort: K4
+[200] req-283619cf | monitoring | 12073.9ms
+[200] req-c34d8986 | monitoring | 14732.1ms
+[200] req-20840b50 | monitoring | 14731.7ms
+[200] req-e7cb6929 | monitoring | 14733.2ms
+[200] req-2f16e4c0 | monitoring | 14736.5ms

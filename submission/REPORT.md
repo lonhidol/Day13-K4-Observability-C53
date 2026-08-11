@@ -6,9 +6,9 @@
 - Repository URL: https://github.com/lonhidol/Day13-K4-Observability-C53 
 - Commit SHA cuối: 5ba64725aaf0b5b4d51c28772973373d98d0f149
 - Thành viên và vai trò:
-  - Nguyễn Thành Long - Người 1 (Backend Observability: Logging & PII, Tracing & Prompt Version)
-  - Hoàng Xuân Quân - Người 2 (Monitoring & Alerting: Dashboard, SLO & Alert)
-  - Đào Tùng Dương - Người 3 (Incident Lead, Report & Demo)
+  - Nguyễn Thành Long - 2A202601536 - Người 1 (Backend Observability: Logging & PII, Tracing & Prompt Version)
+  - Hoàng Xuân Quân - 2A202601868 - Người 2 (Monitoring & Alerting: Dashboard, SLO & Alert)
+  - Đào Tùng Dương - 2A202601402 - Người 3 (Incident Lead, Report & Demo)
 
 ## 2. Kết quả kỹ thuật
 

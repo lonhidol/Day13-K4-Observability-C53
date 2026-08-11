@@ -20,8 +20,8 @@
 
 ## 3. Logging và tracing
 
-- Evidence correlation ID: req-420e858d (có trong response header x-request-id và logs)
-- Evidence PII redaction: email, phone_vn, credit_card được che bằng [REDACTED_EMAIL], [REDACTED_PHONE_VN], [REDACTED_CREDIT_CARD]
+- Evidence correlation ID: req-02c0838a (Chi tiết tại file bằng chứng [log_correlation_id.json](evidence/log_correlation_id.json))
+- Evidence PII redaction: Email, số điện thoại và số thẻ được che thành công (Chi tiết tại file bằng chứng [log_pii_redacted.json](evidence/log_pii_redacted.json))
 - Evidence trace waterfall:
 - Giải thích một span đáng chú ý:
 
